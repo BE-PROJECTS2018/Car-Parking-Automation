@@ -1,0 +1,69 @@
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\LIP_096.exe.manifest
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\LIP_096.application
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\LIP_096.exe
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\LIP_096.pdb
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\LIP_096.xml
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\LIP_096.exe.CodeAnalysisLog.xml
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\LIP_096.exe.lastcodeanalysissucceeded
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.frmAbout.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.frmIntro.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.frmLogin.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.frmMain.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.frmGridView.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.Resources.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.vbproj.GenerateResource.Cache
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.TrustInfo.xml
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.exe.manifest
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.application
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.exe
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.xml
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_096.pdb
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.exe
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.xml
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.pdb
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\bin\Debug\LIP_096.exe.manifest
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\bin\Debug\LIP_096.application
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\bin\Debug\LIP_096.exe
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\bin\Debug\LIP_096.pdb
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\bin\Debug\LIP_096.xml
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\bin\Debug\LIP_096.exe.CodeAnalysisLog.xml
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\bin\Debug\LIP_096.exe.lastcodeanalysissucceeded
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmAbout.resources
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmIntro.resources
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmLogin.resources
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmMain.resources
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmGridView.resources
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.Resources.resources
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.TrustInfo.xml
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.exe.manifest
+D:\LogicInside\LIGroups 11-12\LIG#964\Code\VB.net\Version 1.0\obj\Debug\LIP_096.application
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.exe
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.xml
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.pdb
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\bin\Debug\LIP_096.exe.manifest
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\bin\Debug\LIP_096.application
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\bin\Debug\LIP_096.exe
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\bin\Debug\LIP_096.pdb
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\bin\Debug\LIP_096.xml
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\bin\Debug\LIP_096.exe.CodeAnalysisLog.xml
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\bin\Debug\LIP_096.exe.lastcodeanalysissucceeded
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmAbout.resources
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmIntro.resources
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmLogin.resources
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmMain.resources
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.frmGridView.resources
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.Resources.resources
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.TrustInfo.xml
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.exe.manifest
+D:\LogicInside\LIGroups 11-12\LIG#905\Code\VB.net\Version 1.0\obj\Debug\LIP_096.application
+D:\LogicInside\LIProjects\LIP#096\Code\Code GSM Based  J2ME\VB.net\Version 1.0\obj\Debug\LIP_096.exe
+D:\LogicInside\LIProjects\LIP#096\Code\Code GSM Based  J2ME\VB.net\Version 1.0\obj\Debug\LIP_096.xml
+D:\LogicInside\LIProjects\LIP#096\Code\Code GSM Based  J2ME\VB.net\Version 1.0\obj\Debug\LIP_096.pdb
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_096.exe
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_096.xml
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_096.pdb

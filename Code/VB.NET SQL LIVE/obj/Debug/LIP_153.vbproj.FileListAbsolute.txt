@@ -1,0 +1,112 @@
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\bin\Debug\LIP_153.exe.manifest
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\bin\Debug\LIP_153.application
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\bin\Debug\LIP_153.exe
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\bin\Debug\LIP_153.pdb
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\bin\Debug\LIP_153.xml
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\bin\Debug\LIP_153.exe.CodeAnalysisLog.xml
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\bin\Debug\LIP_153.exe.lastcodeanalysissucceeded
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.frmAbout.resources
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.frmIntro.resources
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.frmLogin.resources
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.frmMain.resources
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.frmReservation.resources
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.frmRegistration.resources
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.Resources.resources
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.vbproj.GenerateResource.Cache
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.TrustInfo.xml
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.exe.manifest
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.application
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.exe
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.xml
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 J2ME\Version 1.0\obj\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.exe
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.xml
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\bin\Debug\LIP_153.exe.manifest
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\bin\Debug\LIP_153.application
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\bin\Debug\LIP_153.exe
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\bin\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\bin\Debug\LIP_153.xml
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\bin\Debug\LIP_153.exe.CodeAnalysisLog.xml
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\bin\Debug\LIP_153.exe.lastcodeanalysissucceeded
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.frmAbout.resources
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.frmIntro.resources
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.frmLogin.resources
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.frmMain.resources
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.frmReservation.resources
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.frmRegistration.resources
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.Resources.resources
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.TrustInfo.xml
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.exe.manifest
+D:\LogicInside\LIGroups 11-12\LIG#1032\PC & Hardware 8051\Version 1.0\obj\Debug\LIP_153.application
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 BT J2ME\Version 1.0\obj\Debug\LIP_153.exe
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 BT J2ME\Version 1.0\obj\Debug\LIP_153.xml
+D:\LogicInside\LIProjects\LIP#153\Code\PC & Hardware 8051 BT J2ME\Version 1.0\obj\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.exe
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.xml
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\bin\Debug\LIP_153.exe.manifest
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\bin\Debug\LIP_153.application
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\bin\Debug\LIP_153.exe
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\bin\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\bin\Debug\LIP_153.xml
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\bin\Debug\LIP_153.exe.CodeAnalysisLog.xml
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\bin\Debug\LIP_153.exe.lastcodeanalysissucceeded
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.frmIntro.resources
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.frmLogin.resources
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.frmMain.resources
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.frmReservation.resources
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.frmRegistration.resources
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.Resources.resources
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.TrustInfo.xml
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.exe.manifest
+D:\LogicInside\LIGroups 13-14\LIG#923\Code\Version 1.0\obj\Debug\LIP_153.application
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.exe
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.xml
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.pdb
+I:\Code 923\Version 1.0\bin\Debug\LIP_153.exe.manifest
+I:\Code 923\Version 1.0\bin\Debug\LIP_153.application
+I:\Code 923\Version 1.0\bin\Debug\LIP_153.exe
+I:\Code 923\Version 1.0\bin\Debug\LIP_153.pdb
+I:\Code 923\Version 1.0\bin\Debug\LIP_153.xml
+I:\Code 923\Version 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.frmIntro.resources
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.frmLogin.resources
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.frmMain.resources
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.frmReservation.resources
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.frmRegistration.resources
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.Resources.resources
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.vbproj.GenerateResource.Cache
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.TrustInfo.xml
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.exe.manifest
+I:\Code 923\Version 1.0\obj\Debug\LIP_153.application
+D:\LogicInside\LIProjects\LIP#153\Code\Code PC ARM 8051 Android GPRS\Version 1.0\obj\Debug\LIP_153.exe
+D:\LogicInside\LIProjects\LIP#153\Code\Code PC ARM 8051 Android GPRS\Version 1.0\obj\Debug\LIP_153.xml
+D:\LogicInside\LIProjects\LIP#153\Code\Code PC ARM 8051 Android GPRS\Version 1.0\obj\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.exe
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.xml
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\bin\Debug\LIP_153.exe.manifest
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\bin\Debug\LIP_153.application
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\bin\Debug\LIP_153.exe
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\bin\Debug\LIP_153.pdb
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\bin\Debug\LIP_153.xml
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.frmIntro.resources
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.frmLogin.resources
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.frmMain.resources
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.frmReservation.resources
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.frmRegistration.resources
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.Resources.resources
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.TrustInfo.xml
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.exe.manifest
+D:\LogicInside\LIGroups 17-18\LIG#211\Code PC ARM 8051 Android GPRS\VB.NET SQL LIVE\obj\Debug\LIP_153.application
+D:\LogicInside\Code\VB.NET SQL LIVE\obj\Debug\LIP_153.exe
+D:\LogicInside\Code\VB.NET SQL LIVE\obj\Debug\LIP_153.xml
+D:\LogicInside\Code\VB.NET SQL LIVE\obj\Debug\LIP_153.pdb

@@ -1,0 +1,22 @@
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_XXX.frmAbout.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_XXX.frmIntro.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_XXX.frmLogin.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_XXX.frmMain.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_XXX.frmGridView.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_XXX.Resources.resources
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\LIP_XXX.vbproj.GenerateResource.Cache
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\ZigBee Based Wireless Network for Meter Reading Automation.exe.manifest
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\ZigBee Based Wireless Network for Meter Reading Automation.application
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\ZigBee Based Wireless Network for Meter Reading Automation.exe
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\ZigBee Based Wireless Network for Meter Reading Automation.pdb
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\ZigBee Based Wireless Network for Meter Reading Automation.xml
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\ZigBee Based Wireless Network for Meter Reading Automation.exe.CodeAnalysisLog.xml
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\ZigBee Based Wireless Network for Meter Reading Automation.exe.lastcodeanalysissucceeded
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\ZigBee Based Wireless Network for Meter Reading Automation.TrustInfo.xml
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\ZigBee Based Wireless Network for Meter Reading Automation.exe.manifest
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\ZigBee Based Wireless Network for Meter Reading Automation.application
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\ZigBee Based Wireless Network for Meter Reading Automation.exe
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\ZigBee Based Wireless Network for Meter Reading Automation.xml
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\obj\Debug\ZigBee Based Wireless Network for Meter Reading Automation.pdb
+D:\LogicInside\LIProjects\LIP#096\Code\VB.net\Backup\bin\Debug\ZigBee Based Wireless Network for Meter Reading Automation.exe.config

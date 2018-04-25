@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "927081819530",
+    "firebase_url": "https://car-parking-scrabbie.firebaseio.com",
+    "project_id": "car-parking-scrabbie",
+    "storage_bucket": "car-parking-scrabbie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927081819530:android:5cc7df8b3175ad43",
+        "android_client_info": {
+          "package_name": "bui.mayprojects.meetshah.carparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927081819530-3hbhsk7n8ik4ojrjvnq5itbi1svk2a19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1Crz12QO9y6gW5smrFZFMXoLJ-p00j0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
